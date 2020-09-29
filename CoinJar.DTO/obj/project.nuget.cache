@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cs022wPDhY7sMNB0d8K3OOsIM4Q7Ml2IGlIZTIhSBFogV7Jjg//LFuJONE7fgCYrjOFFOCOYVIn73cqzBJb+9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.DTO\\CoinJar.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elrickv\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.8\\microsoft.extensions.caching.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Elrickv\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

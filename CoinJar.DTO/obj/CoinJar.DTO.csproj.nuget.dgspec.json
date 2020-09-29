@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.DTO\\CoinJar.DTO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.DTO\\CoinJar.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.DTO\\CoinJar.DTO.csproj",
+        "projectName": "CoinJar.DTO",
+        "projectPath": "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.DTO\\CoinJar.DTO.csproj",
+        "packagesPath": "C:\\Users\\Elrickv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Elrickv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://capwnappdev03/Nugetserver/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.Interface\\CoinJar.Interface.csproj": {
+                "projectPath": "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.Interface\\CoinJar.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.Interface\\CoinJar.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.Interface\\CoinJar.Interface.csproj",
+        "projectName": "CoinJar.Interface",
+        "projectPath": "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.Interface\\CoinJar.Interface.csproj",
+        "packagesPath": "C:\\Users\\Elrickv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elrickv\\Documents\\GlobalKineticAssement\\CoinJar.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Elrickv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://capwnappdev03/Nugetserver/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
